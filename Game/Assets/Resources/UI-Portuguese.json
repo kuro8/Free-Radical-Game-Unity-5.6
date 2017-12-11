@@ -1,0 +1,22 @@
+{"items" : [
+  {"key" : "play", "value" : "Jogar"},
+	{"key" : "exit", "value" : "Saída"},
+	{"key" : "home", "value" : "Tela inicial"},
+	{"key" : "restart", "value" : "Recomeçar"},
+	{"key" : "back", "value" : "Voltar"},
+
+  {"key" : "dynamite", "value" : "dinamite"},
+	{"key" : "fish", "value" : "peixe"},
+	{"key" : "pickaxe", "value" : "picareta"},
+	{"key" : "apple", "value" : "maçã"},
+  {"key" : "carrot", "value" : "cenoura"},
+  {"key" : "filter" , "value" : "filtro solar"},
+
+  {"key" : "survive", "value" : "Sobreviva por {0:#0} segundos"},
+  {"key" : "notEffective", "value" : "Não foi efetivo"},
+
+  {"key" : "failed", "value" : "Você falhou!"},
+  {"key" : "acceptable", "value" : "Aceitável..."},
+  {"key" : "good", "value" : "Bom"},
+  {"key" : "success", "value" : "Sucesso!!!"}
+]}

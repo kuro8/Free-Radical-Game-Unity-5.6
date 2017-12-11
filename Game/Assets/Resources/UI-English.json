@@ -1,0 +1,22 @@
+{"items" : [
+	{"key" : "play", "value" : "Play"},
+	{"key" : "exit", "value" : "Exit"},
+	{"key" : "home", "value" : "Home"},
+	{"key" : "restart", "value" : "Restart"},
+	{"key" : "back", "value" : "Back"},
+
+	{"key" : "dynamite", "value" : "dynamite"},
+	{"key" : "fish", "value" : "fish"},
+	{"key" : "pickaxe", "value" : "pickaxe"},
+	{"key" : "apple", "value" : "apple"},
+	{"key" : "carrot", "value" : "carrot"},
+	{"key" : "filter" , "value" : "sunscreen"},
+
+	{"key" : "survive", "value" : "Survive for {0:#0} seconds"},
+	{"key" : "notEffective", "value" : "It was not effective"},
+
+	{"key" : "failed", "value" : "Failed!"},
+  {"key" : "acceptable", "value" : "Acceptable..."},
+  {"key" : "good", "value" : "Good"},
+  {"key" : "success", "value" : "Success!!!"}
+]}

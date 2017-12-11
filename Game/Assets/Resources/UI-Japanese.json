@@ -1,0 +1,22 @@
+{"items" : [
+	{"key" : "play", "value" : "プレイ"},
+	{"key" : "exit", "value" : "出口"},
+	{"key" : "home", "value" : "ホーム"},
+	{"key" : "restart", "value" : "やり直し"},
+	{"key" : "back", "value" : "戻る"},
+
+	{"key" : "dynamite", "value" : "ばくだん"},
+	{"key" : "fish", "value" : "魚"},
+	{"key" : "pickaxe", "value" : "つるはし"},
+	{"key" : "apple", "value" : "りんご"},
+	{"key" : "carrot", "value" : "にんじん"},
+	{"key" : "filter", "value" : "日やけ止め"},
+
+	{"key" : "survive", "value" : "{0:#0}秒サバイバルして"},
+	{"key" : "notEffective", "value" : "効果がなかったみたい"},
+
+	{"key" : "failed", "value" : "失敗!"},
+  {"key" : "acceptable", "value" : "まあまあ..."},
+  {"key" : "good", "value" : "成功"},
+  {"key" : "success", "value" : "大成功!!!"}
+]}
